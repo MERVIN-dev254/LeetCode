@@ -21,8 +21,7 @@ def twoSum(List: nums, target: int) -> result:List:
 		else if sum < target:
 			start ++
 		else:
-			end --
-		
+			end --	
 	return result
 
 #Max sum of k elements in an array
